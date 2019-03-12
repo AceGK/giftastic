@@ -1,0 +1,32 @@
+button {
+    margin:10px 10px 10px 0px ;
+}
+body{
+    background-color:#222;
+}
+
+p {
+    color:white;
+    margin-bottom:25px;
+}
+
+img {
+	max-width: 200px;
+    max-height: auto;
+}
+
+form {
+    margin:0px;
+}
+
+#displayImages {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.gif{
+    margin:10px;
+}
+
